@@ -1,0 +1,2 @@
+# DictionaryTemp
+Multilingual Dictionary Template
